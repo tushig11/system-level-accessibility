@@ -32,8 +32,8 @@ The framework defines six layers that collectively enforce accessibility across 
 
 This repository focuses on **practical implementation** of system-level accessibility:
 
-### 📘 Engineering Framework (Enterprise)
-→ [`framework/v1-enterprise-framework.md`](./framework/v1-enterprise-framework.md)
+### 📘 Engineering Framework
+→ [`framework/v1-engineering-framework.md`](./framework/v1-framework.md)
 
 A full implementation guide covering:
 - architecture patterns  
@@ -47,11 +47,20 @@ A full implementation guide covering:
 
 Adaptations of the framework for different team sizes:
 
-- [`scaled/solo-developers.md`](./scaled/solo-developers.md)  
+- [`scaled/solo-developers.md`](./scaled/solo-dev.md)  
 - [`scaled/startups.md`](./scaled/startups.md)  
 - [`scaled/growing-teams.md`](./scaled/growing-teams.md)  
 
 These guides focus on **progressive adoption** with reduced overhead.
+
+---
+
+## Downloadable Versions
+
+PDF versions of the framework are available:
+
+- [Engineering Framework (PDF)](./framework/system-level-accessibility-framework-v1.pdf)  
+- [Scaled Implementation Guides (PDF)](./scaled/system-level-accessibility-scaled-editions.pdf)
 
 ---
 
