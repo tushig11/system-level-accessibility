@@ -79,7 +79,7 @@ This includes:
 
 ## Model Overview
 
-![Six-Layer Accessibility Model](./diagram/six-layer-model.svg)
+![Six-Layer Accessibility Model](./diagram/six-layer-model.png)
 
 *Accessibility emerges from the interaction of system layers, not from isolated implementations.*
 
