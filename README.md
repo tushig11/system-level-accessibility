@@ -95,8 +95,12 @@ This work is supported by a multi-part article series exploring system-level acc
 2. **When Interfaces Change Without Telling You**  
    https://www.designsystemscollective.com/when-interfaces-change-without-telling-you-48ee332a2825  
 
-3. **The Parts Work. The System Doesn’t.** *(forthcoming)*  
-4. **Where Accessibility Begins** *(forthcoming)*  
+3. **The Parts Work. The System Doesn’t.**  
+   https://www.designsystemscollective.com/the-parts-work-the-system-doesnt-9e78cae24ca5
+
+4. **Where Accessibility Begins**  
+   https://www.designsystemscollective.com/where-accessibility-begins-708aa79cc440
+
 5. **What Survives Change** *(forthcoming)*  
 6. **What the System Cannot Control** *(forthcoming)*  
 
