@@ -101,7 +101,9 @@ This work is supported by a multi-part article series exploring system-level acc
 4. **Where Accessibility Begins**  
    https://www.designsystemscollective.com/where-accessibility-begins-708aa79cc440
 
-5. **What Survives Change** *(forthcoming)*  
+5. **What Survives Change**  
+   https://medium.com/design-systems-collective/what-survives-change-7dde7adb6d8b
+
 6. **What the System Cannot Control** *(forthcoming)*  
 
 ---
