@@ -74,6 +74,7 @@ This includes:
 - enforced accessible naming  
 - constrained component APIs  
 - accessibility-by-default behavior  
+- tokenization
 
 ---
 
@@ -104,7 +105,11 @@ This work is supported by a multi-part article series exploring system-level acc
 5. **What Survives Change**  
    https://medium.com/design-systems-collective/what-survives-change-7dde7adb6d8b
 
-6. **What the System Cannot Control** *(forthcoming)*  
+6. **What the System Cannot Control**  
+   https://www.designsystemscollective.com/what-the-system-cannot-control-8861d5f3d9e7
+
+7. **This Is Where It Comes Together**  
+   https://www.designsystemscollective.com/this-is-where-it-comes-together-0941740f18b1
 
 ---
 
