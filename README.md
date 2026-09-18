@@ -111,6 +111,8 @@ This work is supported by a multi-part article series exploring system-level acc
 7. **This Is Where It Comes Together**  
    https://www.designsystemscollective.com/this-is-where-it-comes-together-0941740f18b1
 
+8. **What AI Inherits**  
+   https://medium.com/design-systems-collective/what-ai-inherits-f090a61ccc48
 ---
 
 ## Notes
