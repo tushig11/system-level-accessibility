@@ -1,0 +1,51 @@
+{
+  "name": "system-level-accessibility-mcp",
+  "version": "0.2.0",
+  "description": "MCP server exposing the six-layer System-Level Accessibility methodology as tools, resources and prompts, with implementation patterns from a reference design system.",
+  "license": "MIT",
+  "author": "Gantushig Javkhlan",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "system-level-accessibility-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushig11/system-level-accessibility.git",
+    "directory": "mcp"
+  },
+  "homepage": "https://github.com/tushig11/system-level-accessibility/tree/main/mcp#readme",
+  "bugs": {
+    "url": "https://github.com/tushig11/system-level-accessibility/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "prepublishOnly": "npm test",
+    "test": "npm run build && node test/smoke.mjs && node test/patterns-verify.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "accessibility",
+    "a11y",
+    "wcag",
+    "design-systems"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.7",
+    "typescript": "^7.0.2"
+  }
+}
